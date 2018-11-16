@@ -1,2 +1,2 @@
 # devf-b5-cr
-Esta es una descripción
+Repositorio para los ejercicios del Dev.F Cinta Roja de GDL batch#5
